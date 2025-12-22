@@ -90,7 +90,7 @@ Designed for security analysts, penetration testers, red teams, researchers, and
 
 ### 1️⃣ Clone the repo  
 ```bash
-git clone https://github.com/yourusername/vulnxscanner.git
+git clone https://github.com/shubhushubhu99/vulnxscanner.git
 ```
 
 ---
