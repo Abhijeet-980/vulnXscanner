@@ -21,16 +21,12 @@ A high-performance Python + Flask based security scanner that performs real-time
 > Replace these placeholders after uploading screenshots to GitHub
 
 ### 🖥 Dashboard  
-![Dashboard Screenshot](https://via.placeholder.com/900x500.png?text=Dashboard+Preview)
+![Dashboard Screenshot](https://github.com/shubhushubhu99/vulnXscanner/blob/main/Screenshot_2025-12-23_00_20_23.png)
 
 ### 📋 Scan Results  
-![Scan Results Screenshot](https://via.placeholder.com/900x500.png?text=Scan+Results+Preview)
+![Scan Results Screenshot](https://github.com/shubhushubhu99/vulnXscanner/blob/main/Screenshot_2025-12-23_00_20_53.png)
 
 ---
-
-## 🎬 Demo GIF  
-> Replace with your GIF URL later  
-![Demo GIF](https://via.placeholder.com/900x500.gif?text=Demo+GIF+Preview)
 
 ---
 
